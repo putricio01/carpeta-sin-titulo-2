@@ -1,0 +1,6 @@
+[submodule "ll22/lib/forge-std"]
+	path = ll22/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "msgsign/lib/forge-std"]
+	path = msgsign/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
